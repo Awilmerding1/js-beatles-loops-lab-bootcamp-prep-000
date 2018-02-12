@@ -13,7 +13,6 @@ function johnLennonFacts(array) {
         "He hated the sound of his own voice"]
   while(array.length < facts.length) {
     array.push(`${facts[i]}!!!`);
-    i++;
   }
   return array;
 }
