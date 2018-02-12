@@ -19,4 +19,4 @@ function iLoveTheBeatles(number) {
   var array = [];
   var i = 0;}
   do {return array[i];}
-  while();
+  while(i<15);
