@@ -20,4 +20,3 @@ function iLoveTheBeatles(number) {
   var i = 0;}
   do {return array[i];}
   while()
-}
