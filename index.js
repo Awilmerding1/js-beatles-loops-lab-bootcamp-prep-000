@@ -9,7 +9,7 @@ for (var i = 0; i < musicians.length; i++) {
 function johnLennonFacts(facts) {
   var i = 0;
   while(i < facts.length) {
-    facts[i](`${facts[i]}!!!`);
+    facts[i] += "!!!"
   }
   return facts;
 }
