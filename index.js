@@ -11,7 +11,7 @@ function johnLennonFacts(array) {
         "He was never a vegetarian",
         "He was a choir boy and boy scout",
         "He hated the sound of his own voice"]
-  var i = 0;}
+  var i = 0;
   while(i < facts.length) {
     array.push(`${facts[i]}!!!`);
     i++;
